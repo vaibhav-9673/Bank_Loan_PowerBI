@@ -12,11 +12,11 @@ This project focuses on analyzing bank loan data to uncover key lending insights
 
 ### Dashboard 1: Summary
 #### 🔑 Key Performance Indicators (KPIs)
-**1. Total Loan Applications:** Calculate the total number of loan applications received during a specified period, including Month-to-Date (MTD) and Month-over-Month (MoM) changes.
-**2. Total Funded Amount:** Understand the total amount of funds disbursed as loans, monitor MTD Total Funded Amount, and analyze MoM changes.
-**3. Total Amount Received:** Track the total amount received from borrowers to assess cash flow and loan repayment, including MTD Total Amount Received and MoM changes.
-**4. Average Interest Rate:** Calculate the average interest rate across all loans, MTD, and monitor MoM variations.
-**5. Average Debt-to-Income Ratio (DTI):** Evaluate the average DTI for borrowers, compute the average DTI for all loans, MTD, and track MoM fluctuations.
+<br>**1. Total Loan Applications:** Calculate the total number of loan applications received during a specified period, including Month-to-Date (MTD) and Month-over-Month (MoM) changes.
+<br>**2. Total Funded Amount:** Understand the total amount of funds disbursed as loans, monitor MTD Total Funded Amount, and analyze MoM changes.
+<br>**3. Total Amount Received:** Track the total amount received from borrowers to assess cash flow and loan repayment, including MTD Total Amount Received and MoM changes.
+<br>**4. Average Interest Rate:** Calculate the average interest rate across all loans, MTD, and monitor MoM variations.
+<br>**5. Average Debt-to-Income Ratio (DTI):** Evaluate the average DTI for borrowers, compute the average DTI for all loans, MTD, and track MoM fluctuations.
 
 ### 🧠 Key Insights Derived
 1. Certain states dominate loan applications and disbursements
