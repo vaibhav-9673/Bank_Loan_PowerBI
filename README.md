@@ -36,55 +36,55 @@ Based on insights derived from the Summary, Overview, and Details dashboards, th
 
 **1️⃣ Strengthen Risk Assessment for High DTI Borrowers**
 Loans with higher Debt-to-Income (DTI) ratios show increased risk.
-**Recommendation:**
+<br>**Recommendation:**
 1. Apply stricter approval criteria or higher interest margins for high-DTI borrowers.
 2. Introduce automated DTI-based risk scoring during loan approval.
 
 **2️⃣ Optimize Lending Strategy by Region**
 Certain states contribute significantly more to loan applications and funded amounts.
-**Recommendation:**
+<br>**Recommendation:**
 1. Focus marketing and sales efforts in high-performing regions.
 2. Re-evaluate lending policies in underperforming regions to improve penetration or reduce exposure.
 
 **3️⃣ Prioritize Low-Risk Loan Purposes**
 Some loan purposes demonstrate better repayment behavior and lower default risk.
-**Recommendation:**
+<br>**Recommendation:**
 1. Offer preferential interest rates or faster approvals for low-risk purposes.
 2. Limit exposure or tighten checks for high-risk loan purposes.
 
 **4️⃣ Adjust Interest Rates Based on Borrower Profile**
 Interest rate trends vary across grades, employment length, and credit profiles.
-**Recommendation:**
+<br>**Recommendation:**
 1. Implement risk-based pricing models.
 2. Reward stable borrowers (longer employment length, verified income) with competitive rates.
 
 **5️⃣ Improve Loan Portfolio Balance**
 Loan term analysis highlights concentration in specific tenure lengths.
-**Recommendation:**
+<br>**Recommendation:**
 1. Diversify loan terms to reduce portfolio risk.
 2. Promote optimal loan tenures aligned with borrower repayment capacity.
 
 **6️⃣ Enhance Verification & Compliance Processes**
 Verified borrowers generally show stronger repayment behavior.
-**Recommendation:**
+<br>**Recommendation:**
 1. Encourage income and identity verification through incentives.
 2. Make verification mandatory for high-value loans.
 
 **7️⃣ Leverage Monthly Trend Insights for Planning**
 Seasonal patterns are visible in monthly loan applications and disbursements.
-**Recommendation:**
+<br>**Recommendation:**
 1. Align staffing, marketing, and capital allocation with high-demand periods.
 2. Introduce targeted campaigns during low-activity months.
 
 **8️⃣ Improve Monitoring of Loan Status**
 Loan status segmentation provides early warning signals.
-**Recommendation:**
+<br>**Recommendation:**
 1. Actively monitor loans transitioning toward delinquency.
 2. Introduce proactive borrower engagement and early recovery strategies.
 
 **9️⃣ Automate Decision-Making Using Analytics**
 Manual analysis can be time-consuming and inconsistent.
-**Recommendation:**
+<br>**Recommendation:**
 1. Integrate dashboards with automated alerts for risk thresholds.
 2. Use analytics-driven insights to support faster credit decisions.
 
