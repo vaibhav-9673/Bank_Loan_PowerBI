@@ -37,8 +37,8 @@ Based on insights derived from the Summary, Overview, and Details dashboards, th
 **1️⃣ Strengthen Risk Assessment for High DTI Borrowers**
 Loans with higher Debt-to-Income (DTI) ratios show increased risk.
 <br>**Recommendation:**
-    1. Apply stricter approval criteria or higher interest margins for high-DTI borrowers.
-    2. Introduce automated DTI-based risk scoring during loan approval.
+1. Apply stricter approval criteria or higher interest margins for high-DTI borrowers.
+2. Introduce automated DTI-based risk scoring during loan approval.
 
 **2️⃣ Optimize Lending Strategy by Region**
 Certain states contribute significantly more to loan applications and funded amounts.
